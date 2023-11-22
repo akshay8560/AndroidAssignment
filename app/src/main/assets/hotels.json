@@ -1,0 +1,78 @@
+[
+  {
+    "HotelId": "1",
+    "HotelName": "Secret Point Hotel",
+    "Description": "This classic hotel is ideally located on the main commercial artery of the city in the heart of New York. A few minutes away is Time's Square and the historic centre of the city, as well as other places of interest that make New York one of America's most attractive and cosmopolitan cities.",
+    "hotelImage": "https://plus.unsplash.com/premium_photo-1673468921207-641bd97ed220?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2071&q=80",
+    "Tags": [
+      "view",
+      "air conditioning",
+      "concierge"
+    ],
+    "Price": "200$",
+    "Address": {
+      "StreetAddress": "677 5th Ave",
+      "City": "New York",
+      "StateProvince": "NY",
+      "PostalCode": "10022",
+      "Country": "USA"
+    }
+  },
+  {
+    "HotelId": "2",
+    "HotelName": "Country Home",
+    "Description": "Save up to 50% off traditional hotels. Free WiFi, great location near downtown, full kitchen, washer & dryer, 24/7 support, bowling alley, fitness center and more.",
+    "hotelImage": "https://images.unsplash.com/photo-1455587734955-081b22074882?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1920&q=80",
+    "Tags": [
+      "24-hour front desk service",
+      "laundry service",
+      "free wifi"
+    ],
+    "Price": "400$",
+    "Address": {
+      "StreetAddress": "6910 Fayetteville Rd",
+      "City": "Durham",
+      "StateProvince": "NC",
+      "PostalCode": "27713",
+      "Country": "USA"
+    }
+  },
+  {
+    "HotelId": "3",
+    "HotelName": "Regal Orb Residence Inn",
+    "Description": "Your home away from home. Brand new fully equipped premium rooms, fast WiFi, full kitchen, washer & dryer, fitness center. Inner courtyard includes water features and outdoor seating. All units include fireplaces and small outdoor balconies. Pets accepted.",
+    "hotelImage": "https://images.unsplash.com/photo-1564501049412-61c2a3083791?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2832&q=80",
+    "Tags": [
+      "free wifi",
+      "free parking",
+      "24-hour front desk service"
+    ],
+    "Price": "300$",
+    "Address": {
+      "StreetAddress": "22422 29th Dr SE",
+      "City": "Bothell",
+      "StateProvince": "WA",
+      "PostalCode": "98021",
+      "Country": "USA"
+    }
+  },
+  {
+    "HotelId": "4",
+    "HotelName": "Winter Panorama Resort",
+    "Description": "Plenty of great skiing, outdoor ice skating, sleigh rides, tubing and snow biking. Yoga, group exercise classes and outdoor hockey are available year-round, plus numerous options for shopping as well as great spa services. Newly-renovated with large rooms, free 24-hr airport shuttle & a new restaurant. Rooms/suites offer mini-fridges & 49-inch HDTVs.",
+    "hotelImage": "https://images.unsplash.com/photo-1566073771259-6a8506099945?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=800",
+    "Tags": [
+      "restaurant",
+      "bar",
+      "pool"
+    ],
+    "Price": "250$",
+    "Address": {
+      "StreetAddress": "9025 SW Hillman Ct",
+      "City": "Wilsonville",
+      "StateProvince": "OR",
+      "PostalCode": "97070",
+      "Country": "USA"
+    }
+  }
+]
